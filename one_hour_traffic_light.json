@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "first_one_hour",
+"productVersion": "0.1",
+"dataUrl": "one_hour_traffic_light.data.unityweb",
+"wasmCodeUrl": "one_hour_traffic_light.wasm.code.unityweb",
+"wasmFrameworkUrl": "one_hour_traffic_light.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
